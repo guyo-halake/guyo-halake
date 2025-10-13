@@ -34,23 +34,23 @@
 
 
 
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
 <!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=guyohalake&theme=dark&hide_border=false" alt="GitHub Streak" /> <br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=guyo-halake&theme=dark&hide_border=false" alt="GitHub Streak" /> <br>
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guyohalake&theme=dark&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guyo-halake&theme=dark&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" />
 
 </div>
 
 <!--## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Munanom&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=guyo-halake&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 #-->
+
 
 
 ### 🤝🏻 &nbsp;Connect with Me !
