@@ -3,9 +3,8 @@
    </h2>
 
 
- 😎 &nbsp;About Me
 
-🎓 &nbsp;I specialize in developing **Mobile Applications for both android and IoS** and use my **Cybersecurity skills (Android Mobile Security)** to protect them from cyber threats.
+🎓 &nbsp;I develop **Mobile Applications for both android and IoS** and use my **Cybersecurity skills (Android Mobile Security)** to protect them from cyber threats.
 
 ✍️&nbsp;
    
@@ -17,17 +16,22 @@
 ### 💻 🛠 &nbsp;My Skills
 
 
-![Wireshark](https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=wireshark&logoColor=blue)&nbsp;
-![Nmap](https://img.shields.io/badge/-Nmap-05122A?style=flat&logo=nmap&logoColor=white)&nbsp;
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-05122A?style=flat&logo=kalilinux&logoColor=blue)&nbsp;
-![Metasploit](https://img.shields.io/badge/-Metasploit-05122A?style=flat&logo=metasploit)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin&logoColor=7F52FF)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=white)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
-![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android&logoColor=3DDC84)&nbsp;
-![Gradle](https://img.shields.io/badge/-Gradle-05122A?style=flat&logo=gradle&logoColor=02303A)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
-![APKTool](https://img.shields.io/badge/-APKTool-05122A?style=flat&logo=android&logoColor=green)&nbsp;
+<p align="center">
+  <img src="https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin&logoColor=7F52FF" /> 
+  <img src="https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-IoT-05122A?style=flat" /> <br>
+  <img src="https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84" />
+  <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28" /><br>
+  <img src="https://img.shields.io/badge/-Nmap-05122A?style=flat&logo=nmap&logoColor=white" /> <br>
+  <img src="https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=wireshark&logoColor=blue" />
+  <img src="https://img.shields.io/badge/-Onswant-05122A?style=flat" />
+  <img src="https://img.shields.io/badge/-Android%20Security-05122A?style=flat&logo=android&logoColor=3DDC84" />
+  <img src="https://img.shields.io/badge/-React%20JS-05122A?style=flat&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kali%20Linux-05122A?style=flat&logo=kalilinux&logoColor=blue" /> <br>
+  <img src="https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu&logoColor=white" />
+</p>
 
 
 
