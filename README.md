@@ -16,22 +16,22 @@
 ### 💻 🛠 &nbsp;My Skills
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin&logoColor=7F52FF" /> 
-  <img src="https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-IoT-05122A?style=flat" /> <br>
-  <img src="https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84" />
-  <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28" /><br>
-  <img src="https://img.shields.io/badge/-Nmap-05122A?style=flat&logo=nmap&logoColor=white" /> <br>
-  <img src="https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=wireshark&logoColor=blue" />
-  <img src="https://img.shields.io/badge/-Onswant-05122A?style=flat" />
-  <img src="https://img.shields.io/badge/-Android%20Security-05122A?style=flat&logo=android&logoColor=3DDC84" />
-  <img src="https://img.shields.io/badge/-React%20JS-05122A?style=flat&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Kali%20Linux-05122A?style=flat&logo=kalilinux&logoColor=blue" /> <br>
-  <img src="https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu&logoColor=white" />
-</p>
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin&logoColor=7F52FF)
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=white)
+![IoT](https://img.shields.io/badge/-IoT-05122A?style=flat)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)
+
+![Nmap](https://img.shields.io/badge/-Nmap-05122A?style=flat&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=wireshark&logoColor=blue)
+![Onswant](https://img.shields.io/badge/-Onswant-05122A?style=flat)
+![Android Security](https://img.shields.io/badge/-Android%20Security-05122A?style=flat&logo=android&logoColor=3DDC84)
+![React JS](https://img.shields.io/badge/-React%20JS-05122A?style=flat&logo=react&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-05122A?style=flat&logo=kalilinux&logoColor=blue)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu&logoColor=white)
+
 
 
 
