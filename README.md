@@ -28,7 +28,7 @@
 
 
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
 <div align="center">
 
@@ -48,6 +48,6 @@
 
 
 
-</p>
+</p>-->
 
 **Happy Coding 👨‍💻!**
